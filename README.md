@@ -1,16 +1,6 @@
 # GAiA-Project
 Designed to provide a platform for users interested in joining energy communities or optimising their energy consumption, as well as for energy communities looking to expand or seeking help in getting started.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Algorithms](#algorithms)
-  - [Production Model](#production-model)
-  - [Consumption Model](#consumption-model)
-  - [Distribution Algorithm](#distribution-algorithm)
-  - [Community Suggestion Algorithm](#community-suggestion-algorithm)
-- [Datasets](#datasets)
-
 ## About the Project
 
 This project aims to develop various algorithms and models to help users and energy communities optimize their energy consumption and production. The main components of the project include machine learning models for predicting energy production and consumption, an algorithm for energy distribution, and a community suggestion feature.
